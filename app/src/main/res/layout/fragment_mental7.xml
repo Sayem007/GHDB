@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+     android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_margin="10dp"
+        android:background="@drawable/scr_3"
+        android:padding="10dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:paddingBottom="20dp"
+            >
+
+            <TextView
+                android:layout_width="400dp"
+                android:layout_height="wrap_content"
+                android:text="Present Situation"
+                android:textStyle="bold"
+                android:background="@drawable/scr_3"
+                android:textSize="25sp"
+                android:textAlignment="center"
+                android:textColor="#ffffff"
+                android:layout_margin="10dp"
+                android:drawableLeft="@drawable/upcoming"
+                android:padding="5dp"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Work:"
+                    android:textColor="#000000"
+                    android:textSize="20sp"
+                    android:padding="5dp"
+                    android:background="@drawable/scr_7"/>
+
+                <CheckBox
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Full-Time"
+                    android:textSize="25sp"
+                    android:textColor="#ffffff"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginRight="25dp"
+                    android:buttonTint="#ffffff"/>
+                <CheckBox
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Part-Time"
+                    android:textSize="25sp"
+                    android:textColor="#ffffff"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginRight="25dp"
+                    android:buttonTint="#ffffff"/>
+                <CheckBox
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Student"
+                    android:textSize="25sp"
+                    android:textColor="#ffffff"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginRight="25dp"
+                    android:buttonTint="#ffffff"/>
+                <CheckBox
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Unemployed"
+                    android:textSize="25sp"
+                    android:textColor="#ffffff"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginRight="25dp"
+                    android:buttonTint="#ffffff"/>
+                <CheckBox
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Disabled"
+                    android:textSize="25sp"
+                    android:textColor="#ffffff"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginRight="25dp"
+                    android:buttonTint="#ffffff"/>
+                <CheckBox
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Retired"
+                    android:textSize="25sp"
+                    android:textColor="#ffffff"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginRight="25dp"
+                    android:buttonTint="#ffffff"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Are you married?"
+                        android:textColor="#000000"
+                        android:textSize="20sp"
+                        android:padding="5dp"
+                        android:background="@drawable/scr_7"/>
+                    <EditText
+                        android:layout_width="400dp"
+                        android:layout_height="wrap_content"
+                        android:backgroundTint="#b0b1b7"
+                        android:textColor="#ffffff"
+                        android:padding="10dp"
+                        android:textSize="20sp"
+                        />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_marginLeft="25dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="If yes, date of marriage:"
+                        android:textColor="#000000"
+                        android:textSize="20sp"
+                        android:padding="5dp"
+                        android:background="@drawable/scr_7"/>
+                    <EditText
+                        android:layout_width="400dp"
+                        android:layout_height="wrap_content"
+                        android:backgroundTint="#b0b1b7"
+                        android:textColor="#ffffff"
+                        android:padding="10dp"
+                        android:textSize="20sp"
+                        />
+
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/textView"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/scr_7"
+                        android:padding="5dp"
+                        android:text="Are you divorced?"
+                        android:textColor="#000000"
+                        android:textSize="20sp" />
+
+                    <EditText
+                        android:layout_width="400dp"
+                        android:layout_height="wrap_content"
+                        android:backgroundTint="#b0b1b7"
+                        android:textColor="#ffffff"
+                        android:padding="10dp"
+                        android:textSize="20sp"
+                        />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_marginLeft="25dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="If yes, date of divorce:"
+                        android:textColor="#000000"
+                        android:textSize="20sp"
+                        android:padding="5dp"
+                        android:background="@drawable/scr_7"/>
+                    <EditText
+                        android:layout_width="400dp"
+                        android:layout_height="wrap_content"
+                        android:backgroundTint="#b0b1b7"
+                        android:textColor="#ffffff"
+                        android:padding="10dp"
+                        android:textSize="20sp"
+                        />
+
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Prior marriages?"
+                        android:textColor="#000000"
+                        android:textSize="20sp"
+                        android:padding="5dp"
+                        android:background="@drawable/scr_7"/>
+                    <EditText
+                        android:layout_width="400dp"
+                        android:layout_height="wrap_content"
+                        android:backgroundTint="#b0b1b7"
+                        android:textColor="#ffffff"
+                        android:padding="10dp"
+                        android:textSize="20sp"
+                        />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_marginLeft="25dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="If yes, how many?"
+                        android:textColor="#000000"
+                        android:textSize="20sp"
+                        android:padding="5dp"
+                        android:background="@drawable/scr_7"/>
+                    <EditText
+                        android:layout_width="400dp"
+                        android:layout_height="wrap_content"
+                        android:backgroundTint="#b0b1b7"
+                        android:textColor="#ffffff"
+                        android:padding="10dp"
+                        android:textSize="20sp"
+                        />
+
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="What is your sexual orientation?"
+                        android:textColor="#000000"
+                        android:textSize="20sp"
+                        android:padding="5dp"
+                        android:background="@drawable/scr_7"/>
+                    <EditText
+                        android:layout_width="400dp"
+                        android:layout_height="wrap_content"
+                        android:backgroundTint="#b0b1b7"
+                        android:textColor="#ffffff"
+                        android:padding="10dp"
+                        android:textSize="20sp"
+                        />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_marginLeft="25dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Are you sexually active?"
+                        android:textColor="#000000"
+                        android:textSize="20sp"
+                        android:padding="5dp"
+                        android:background="@drawable/scr_7"/>
+                    <EditText
+                        android:layout_width="400dp"
+                        android:layout_height="wrap_content"
+                        android:backgroundTint="#b0b1b7"
+                        android:textColor="#ffffff"
+                        android:padding="10dp"
+                        android:textSize="20sp"
+                        />
+
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="How is your relationship with your partner?"
+                    android:textColor="#000000"
+                    android:textSize="20sp"
+                    android:padding="5dp"
+                    android:background="@drawable/scr_7"/>
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:backgroundTint="#b0b1b7"
+                    android:textColor="#ffffff"
+                    android:padding="10dp"
+                    android:textSize="20sp"
+                    />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Do you have children?"
+                        android:textColor="#000000"
+                        android:textSize="20sp"
+                        android:padding="5dp"
+                        android:background="@drawable/scr_7"/>
+                    <EditText
+                        android:layout_width="400dp"
+                        android:layout_height="wrap_content"
+                        android:backgroundTint="#b0b1b7"
+                        android:textColor="#ffffff"
+                        android:padding="10dp"
+                        android:textSize="20sp"
+                        />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_marginLeft="25dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Dates of Birth:"
+                        android:textColor="#000000"
+                        android:textSize="20sp"
+                        android:padding="5dp"
+                        android:background="@drawable/scr_7"/>
+                    <EditText
+                        android:layout_width="400dp"
+                        android:layout_height="wrap_content"
+                        android:backgroundTint="#b0b1b7"
+                        android:textColor="#ffffff"
+                        android:padding="10dp"
+                        android:textSize="20sp"
+                        />
+
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="How is your relationship with your child(ren)?"
+                    android:textColor="#000000"
+                    android:textSize="20sp"
+                    android:padding="5dp"
+                    android:background="@drawable/scr_7"/>
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:backgroundTint="#b0b1b7"
+                    android:textColor="#ffffff"
+                    android:padding="10dp"
+                    android:textSize="20sp"
+                    />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="List anyone else who lives with you:"
+                    android:textColor="#000000"
+                    android:textSize="20sp"
+                    android:padding="5dp"
+                    android:background="@drawable/scr_7"/>
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:backgroundTint="#b0b1b7"
+                    android:textColor="#ffffff"
+                    android:padding="10dp"
+                    android:textSize="20sp"
+                    />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Are you a member of a religion/spiritual group?"
+                    android:textColor="#000000"
+                    android:textSize="20sp"
+                    android:padding="5dp"
+                    android:background="@drawable/scr_7"/>
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:backgroundTint="#b0b1b7"
+                    android:textColor="#ffffff"
+                    android:padding="10dp"
+                    android:textSize="20sp"
+                    />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="What is your level of involvement?"
+                    android:textColor="#000000"
+                    android:textSize="20sp"
+                    android:padding="5dp"
+                    android:background="@drawable/scr_7"/>
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:backgroundTint="#b0b1b7"
+                    android:textColor="#ffffff"
+                    android:padding="10dp"
+                    android:textSize="20sp"
+                    />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Have you ever been arrested??"
+                        android:textColor="#000000"
+                        android:textSize="20sp"
+                        android:padding="5dp"
+                        android:background="@drawable/scr_7"/>
+                    <EditText
+                        android:layout_width="400dp"
+                        android:layout_height="wrap_content"
+                        android:backgroundTint="#b0b1b7"
+                        android:textColor="#ffffff"
+                        android:padding="10dp"
+                        android:textSize="20sp"
+                        />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_marginLeft="25dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="When and why?"
+                        android:textColor="#000000"
+                        android:textSize="20sp"
+                        android:padding="5dp"
+                        android:background="@drawable/scr_7"/>
+                    <EditText
+                        android:layout_width="400dp"
+                        android:layout_height="wrap_content"
+                        android:backgroundTint="#b0b1b7"
+                        android:textColor="#ffffff"
+                        android:padding="10dp"
+                        android:textSize="20sp"
+                        />
+
+                </LinearLayout>
+            </LinearLayout>
+
+            <Button
+                android:layout_width="400dp"
+                android:layout_height="wrap_content"
+                android:text="Next"
+                android:textSize="20dp"
+                android:layout_gravity="bottom|end"
+                android:background="@drawable/scr_4"
+                android:layout_marginRight="15dp"/>
+            </LinearLayout>
+    </ScrollView>
+</LinearLayout>

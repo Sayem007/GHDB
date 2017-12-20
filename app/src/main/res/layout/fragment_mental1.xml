@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+     android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_margin="10dp"
+        android:background="@drawable/scr_3"
+        android:padding="10dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:paddingBottom="20dp"
+            >
+
+            <TextView
+                android:layout_width="400dp"
+                android:layout_height="wrap_content"
+                android:text="Personal Information"
+                android:textStyle="bold"
+                android:background="@drawable/scr_3"
+                android:textSize="25sp"
+                android:textAlignment="center"
+                android:textColor="#ffffff"
+                android:layout_margin="10dp"
+                android:drawableLeft="@drawable/upcoming"
+                android:padding="5dp"/>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="200dp"
+                        android:layout_height="wrap_content"
+                        android:text="Name:"
+                        android:textColor="#000000"
+                        android:textSize="20sp"
+                        android:padding="5dp"
+                        android:background="@drawable/scr_7"/>
+                    <EditText
+                        android:layout_width="400dp"
+                        android:layout_height="wrap_content"
+                        android:backgroundTint="#b0b1b7"
+                        android:textColor="#ffffff"
+                        android:padding="10dp"
+                        android:textSize="20sp"/>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_marginLeft="25dp">
+
+                    <TextView
+                        android:layout_width="200dp"
+                        android:layout_height="wrap_content"
+                        android:text="Date:"
+                        android:textColor="#000000"
+                        android:textSize="20sp"
+                        android:padding="5dp"
+                        android:background="@drawable/scr_7"/>
+                    <EditText
+                        android:layout_width="400dp"
+                        android:layout_height="wrap_content"
+                        android:backgroundTint="#b0b1b7"
+                        android:textColor="#ffffff"
+                        android:padding="10dp"
+                        android:textSize="20dp"
+                        />
+
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"
+                    android:text="Address:"
+                    android:textColor="#000000"
+                    android:textSize="20sp"
+                    android:padding="5dp"
+                    android:background="@drawable/scr_7"/>
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:backgroundTint="#b0b1b7"
+                    android:textColor="#ffffff"
+                    android:padding="10dp"
+                    android:textSize="20sp"
+                    />
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="200dp"
+                        android:layout_height="wrap_content"
+                        android:text="Phone:"
+                        android:textColor="#000000"
+                        android:textSize="20sp"
+                        android:padding="5dp"
+                        android:background="@drawable/scr_7"/>
+                    <EditText
+                        android:layout_width="400dp"
+                        android:layout_height="wrap_content"
+                        android:backgroundTint="#b0b1b7"
+                        android:textColor="#ffffff"
+                        android:padding="10dp"
+                        android:textSize="20sp"
+                        />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_marginLeft="25dp">
+
+                    <TextView
+                        android:layout_width="200dp"
+                        android:layout_height="wrap_content"
+                        android:text="Email:"
+                        android:textColor="#000000"
+                        android:textSize="20sp"
+                        android:padding="5dp"
+                        android:background="@drawable/scr_7"/>
+                    <EditText
+                        android:layout_width="400dp"
+                        android:layout_height="wrap_content"
+                        android:backgroundTint="#b0b1b7"
+                        android:textColor="#ffffff"
+                        android:padding="10dp"
+                        android:textSize="20sp"
+                        />
+
+                </LinearLayout>
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="200dp"
+                        android:layout_height="wrap_content"
+                        android:text="DOB:"
+                        android:textColor="#000000"
+                        android:textSize="20sp"
+                        android:padding="5dp"
+                        android:background="@drawable/scr_7"/>
+                    <EditText
+                        android:layout_width="400dp"
+                        android:layout_height="wrap_content"
+                        android:backgroundTint="#b0b1b7"
+                        android:textColor="#ffffff"
+                        android:padding="10dp"
+                        android:textSize="20sp"
+                        />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_marginLeft="25dp">
+
+                    <TextView
+                        android:layout_width="200dp"
+                        android:layout_height="wrap_content"
+                        android:text="Sex:"
+                        android:textColor="#000000"
+                        android:textSize="20sp"
+                        android:padding="5dp"
+                        android:background="@drawable/scr_7"/>
+                    <EditText
+                        android:layout_width="400dp"
+                        android:layout_height="wrap_content"
+                        android:backgroundTint="#b0b1b7"
+                        android:textColor="#ffffff"
+                        android:padding="10dp"
+                        android:textSize="20sp"
+                        />
+
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="200dp"
+                        android:layout_height="wrap_content"
+                        android:text="Primary Physician:"
+                        android:textColor="#000000"
+                        android:textSize="20sp"
+                        android:padding="5dp"
+                        android:background="@drawable/scr_7"/>
+                    <EditText
+                        android:layout_width="400dp"
+                        android:layout_height="wrap_content"
+                        android:backgroundTint="#b0b1b7"
+                        android:textColor="#ffffff"
+                        android:padding="10dp"
+                        android:textSize="20sp"
+                        />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_marginLeft="25dp">
+
+                    <TextView
+                        android:layout_width="200dp"
+                        android:layout_height="wrap_content"
+                        android:text="Phone:"
+                        android:textColor="#000000"
+                        android:textSize="20sp"
+                        android:padding="5dp"
+                        android:background="@drawable/scr_7"/>
+                    <EditText
+                        android:layout_width="400dp"
+                        android:layout_height="wrap_content"
+                        android:backgroundTint="#b0b1b7"
+                        android:textColor="#ffffff"
+                        android:padding="10dp"
+                        android:textSize="20sp"
+                        />
+
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="200dp"
+                        android:layout_height="wrap_content"
+                        android:text="Current Therapist:"
+                        android:textColor="#000000"
+                        android:textSize="20sp"
+                        android:padding="5dp"
+                        android:background="@drawable/scr_7"/>
+                    <EditText
+                        android:layout_width="400dp"
+                        android:layout_height="wrap_content"
+                        android:backgroundTint="#b0b1b7"
+                        android:textColor="#ffffff"
+                        android:padding="10dp"
+                        android:textSize="20sp"
+                        />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_marginLeft="25dp">
+
+                    <TextView
+                        android:layout_width="200dp"
+                        android:layout_height="wrap_content"
+                        android:text="Phone:"
+                        android:textColor="#000000"
+                        android:textSize="20sp"
+                        android:padding="5dp"
+                        android:background="@drawable/scr_7"/>
+                    <EditText
+                        android:layout_width="400dp"
+                        android:layout_height="wrap_content"
+                        android:backgroundTint="#b0b1b7"
+                        android:textColor="#ffffff"
+                        android:padding="10dp"
+                        android:textSize="20sp"
+                        />
+
+                </LinearLayout>
+            </LinearLayout>
+
+            <Button
+                android:layout_width="400dp"
+                android:layout_height="wrap_content"
+                android:text="Next"
+                android:textSize="20dp"
+                android:layout_gravity="bottom|end"
+                android:background="@drawable/scr_4"
+                android:layout_marginRight="15dp"/>
+            </LinearLayout>
+    </ScrollView>
+</LinearLayout>

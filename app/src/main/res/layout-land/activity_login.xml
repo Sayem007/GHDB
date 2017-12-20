@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/scr_2"
+    tools:context="com.sayem.geeknot.ghdb.LoginActivity">
+
+    <LinearLayout
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/scr_3"
+        android:orientation="vertical"
+        android:padding="5dp"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="top|center">
+
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_gravity="center"
+            android:background="@drawable/lg1"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:backgroundTint="#b0b1b7"
+            android:text="GHDB"
+            android:textColor="#ffffff"
+            android:textSize="40sp"
+            android:typeface="monospace"
+            />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ghana Health Database System"
+        android:textColor="#ffffff"
+        android:textSize="40dp"
+        android:layout_gravity="center"
+
+        />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/scr_3"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp">
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="5dp"
+            android:background="@drawable/ic_vpn_key_black_24dp" />
+
+        <EditText
+            android:id="@+id/editText3"
+            android:layout_width="900dp"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#b0b1b7"
+            android:hint="Password"
+            android:padding="10dp"
+            android:textColorHint="#8cffffff"
+            android:textSize="30dp"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/scr_3"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp">
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="5dp"
+            android:background="@drawable/ic_person_outline_black_24dp" />
+
+        <EditText
+            android:layout_width="900dp"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#b0b1b7"
+            android:hint="Username"
+            android:padding="10dp"
+            android:textColorHint="#8cffffff"
+            android:textSize="30dp"
+            />
+    </LinearLayout>
+
+
+    <Button
+        android:id="@+id/btn_signin"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/scr_4"
+        android:text="Sign In"
+        android:textAllCaps="false"
+        android:textSize="30sp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"/>
+    
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Or"
+        android:textColor="#ffffff"
+        android:textSize="30dp"
+        android:layout_gravity="center" />
+    
+    <Button
+        android:id="@+id/btn_nfc"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/scr_4"
+        android:text="Sign In with NFC"
+        android:textAllCaps="false"
+        android:textSize="30sp"
+        android:layout_gravity="center" />
+
+
+
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/scr_3"
+        android:orientation="horizontal"
+        android:padding="10dp"
+        android:layout_gravity="bottom|end"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginBottom="15dp">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@drawable/ic_help_outline_black_24dp" />
+
+        <TextView
+            android:id="@+id/tv2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:padding="15dp"
+            android:text="Help Needed"
+            android:textColor="#ffffff"
+            android:textSize="25dp" />
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/btn_passHelp"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:background="@drawable/scr_3"
+                android:text="Passward Help"
+                android:textAllCaps="false"
+                android:textColor="#ffffff"
+                android:textSize="20sp"
+                />
+
+            <Button
+                android:id="@+id/btn_unmHelp"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/scr_3"
+                android:layout_marginBottom="5dp"
+                android:text="Username Help"
+                android:textAllCaps="false"
+                android:textColor="#ffffff"
+                android:textSize="20sp"
+                 />
+
+            <Button
+                android:id="@+id/btn_nfcHelp"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/scr_3"
+                android:text="NFC Help"
+                android:textAllCaps="false"
+                android:textColor="#ffffff"
+                android:textSize="20sp"
+                />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>
