@@ -35,7 +35,7 @@
                         android:layout_height="wrap_content"
                         android:text="Patient Name:"
                         android:textColor="#000000"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
@@ -44,7 +44,7 @@
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20sp"/>
+                        android:textSize="25sp"/>
 
                 </LinearLayout>
 
@@ -59,7 +59,7 @@
                         android:layout_height="wrap_content"
                         android:text="Date of Birth:"
                         android:textColor="#000000"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
@@ -68,7 +68,7 @@
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -81,7 +81,7 @@
                 android:text="The above named person must indicate when this authorization is to expire:"
                 android:textStyle="bold"
                 android:background="@drawable/scr_3"
-                android:textSize="25sp"
+                android:textSize="30sp"
                 android:textAlignment="center"
                 android:textColor="#ffffff"
                 android:layout_margin="10dp"
@@ -142,7 +142,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="  In three year"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         android:layout_margin="5dp"
                         android:buttonTint="#ffffff"
                         android:textColor="#ffffff"
@@ -152,12 +152,12 @@
             </LinearLayout>
 
             <TextView
-                android:layout_width="700dp"
+                android:layout_width="800dp"
                 android:layout_height="wrap_content"
                 android:text="The person named above is or has been a patient of"
                 android:textStyle="bold"
                 android:background="@drawable/scr_3"
-                android:textSize="25sp"
+                android:textSize="30sp"
                 android:textAlignment="center"
                 android:textColor="#ffffff"
                 android:layout_margin="10dp"
@@ -174,7 +174,7 @@
                     android:layout_height="wrap_content"
                     android:text="Name of Person, Provider, or Facility:"
                     android:textColor="#000000"
-                    android:textSize="20dp"
+                    android:textSize="25sp"
                     android:padding="5dp"
                     android:background="@drawable/scr_7"/>
                 <EditText
@@ -183,7 +183,7 @@
                     android:backgroundTint="#b0b1b7"
                     android:textColor="#ffffff"
                     android:padding="10dp"
-                    android:textSize="20dp"
+                    android:textSize="25sp"
                     />
 
             </LinearLayout>
@@ -198,7 +198,7 @@
                     android:layout_height="wrap_content"
                     android:text="Address:"
                     android:textColor="#000000"
-                    android:textSize="20dp"
+                    android:textSize="25sp"
                     android:padding="5dp"
                     android:background="@drawable/scr_7"/>
                 <EditText
@@ -207,7 +207,7 @@
                     android:backgroundTint="#b0b1b7"
                     android:textColor="#ffffff"
                     android:padding="10dp"
-                    android:textSize="20dp"
+                    android:textSize="25sp"
                     />
 
             </LinearLayout>
@@ -222,7 +222,7 @@
                     android:layout_height="wrap_content"
                     android:text="Phone:"
                     android:textColor="#000000"
-                    android:textSize="20dp"
+                    android:textSize="25sp"
                     android:padding="5dp"
                     android:background="@drawable/scr_7"/>
                 <EditText
@@ -231,7 +231,7 @@
                     android:backgroundTint="#b0b1b7"
                     android:textColor="#ffffff"
                     android:padding="10dp"
-                    android:textSize="20dp"
+                    android:textSize="25sp"
                     />
 
             </LinearLayout>
@@ -246,7 +246,7 @@
                     android:layout_height="wrap_content"
                     android:text="Fax:"
                     android:textColor="#000000"
-                    android:textSize="20dp"
+                    android:textSize="25sp"
                     android:padding="5dp"
                     android:background="@drawable/scr_7"/>
                 <EditText
@@ -255,7 +255,7 @@
                     android:backgroundTint="#b0b1b7"
                     android:textColor="#ffffff"
                     android:padding="10dp"
-                    android:textSize="20dp"
+                    android:textSize="25sp"
                     />
 
             </LinearLayout>
@@ -264,10 +264,11 @@
                 android:layout_width="400dp"
                 android:layout_height="wrap_content"
                 android:text="Next"
-                android:textSize="20dp"
+                android:textSize="25sp"
                 android:layout_gravity="bottom|end"
                 android:background="@drawable/scr_4"
-                android:layout_marginRight="15dp"/>
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="40dp"/>
             </LinearLayout>
     </ScrollView>
 </LinearLayout>

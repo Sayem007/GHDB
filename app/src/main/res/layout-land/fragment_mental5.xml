@@ -26,7 +26,7 @@
                 android:text="Family History"
                 android:textStyle="bold"
                 android:background="@drawable/scr_3"
-                android:textSize="25sp"
+                android:textSize="30sp"
                 android:textAlignment="center"
                 android:textColor="#ffffff"
                 android:layout_margin="10dp"
@@ -48,16 +48,16 @@
                         android:layout_height="wrap_content"
                         android:text="Were you adopted?"
                         android:textColor="#000000"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="400dp"
+                        android:layout_width="600dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -73,16 +73,16 @@
                         android:layout_height="wrap_content"
                         android:text="If yes, at what age?"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="400dp"
+                        android:layout_width="500dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -98,7 +98,7 @@
                     android:layout_height="wrap_content"
                     android:text="How is the relationship with your father?"
                     android:textColor="#000000"
-                    android:textSize="20sp"
+                    android:textSize="25sp"
                     android:padding="5dp"
                     android:background="@drawable/scr_7"/>
                 <EditText
@@ -107,7 +107,7 @@
                     android:backgroundTint="#b0b1b7"
                     android:textColor="#ffffff"
                     android:padding="10dp"
-                    android:textSize="20sp"
+                    android:textSize="25sp"
                     />
             </LinearLayout>
 
@@ -121,7 +121,7 @@
                     android:layout_height="wrap_content"
                     android:text="How is the relationship with your mother?"
                     android:textColor="#000000"
-                    android:textSize="20sp"
+                    android:textSize="25sp"
                     android:padding="5dp"
                     android:background="@drawable/scr_7"/>
                 <EditText
@@ -130,7 +130,7 @@
                     android:backgroundTint="#b0b1b7"
                     android:textColor="#ffffff"
                     android:padding="10dp"
-                    android:textSize="20sp"
+                    android:textSize="25sp"
                     />
             </LinearLayout>
 
@@ -144,7 +144,7 @@
                     android:layout_height="wrap_content"
                     android:text="Siblings and their ages:"
                     android:textColor="#000000"
-                    android:textSize="20sp"
+                    android:textSize="25sp"
                     android:padding="5dp"
                     android:background="@drawable/scr_7"/>
                 <EditText
@@ -153,7 +153,7 @@
                     android:backgroundTint="#b0b1b7"
                     android:textColor="#ffffff"
                     android:padding="10dp"
-                    android:textSize="20sp"
+                    android:textSize="25sp"
                     />
             </LinearLayout>
 
@@ -167,7 +167,7 @@
                     android:layout_height="wrap_content"
                     android:text="Are your parents married?"
                     android:textColor="#000000"
-                    android:textSize="20sp"
+                    android:textSize="25sp"
                     android:padding="5dp"
                     android:background="@drawable/scr_7"/>
                 <EditText
@@ -176,7 +176,7 @@
                     android:backgroundTint="#b0b1b7"
                     android:textColor="#ffffff"
                     android:padding="10dp"
-                    android:textSize="20sp"
+                    android:textSize="25sp"
                     />
             </LinearLayout>
 
@@ -195,16 +195,16 @@
                         android:layout_height="wrap_content"
                         android:text="Did your parents devorce?"
                         android:textColor="#000000"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="400dp"
+                        android:layout_width="600dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -220,7 +220,7 @@
                         android:layout_height="wrap_content"
                         android:text="If yes, how old were you?"
                         android:textColor="#000000"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
@@ -229,7 +229,7 @@
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -250,16 +250,16 @@
                         android:layout_height="wrap_content"
                         android:text="Did your parents remarry?"
                         android:textColor="#000000"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="400dp"
+                        android:layout_width="600dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -275,7 +275,7 @@
                         android:layout_height="wrap_content"
                         android:text="If yes, how old were you?"
                         android:textColor="#000000"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
@@ -284,7 +284,7 @@
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -305,16 +305,16 @@
                         android:layout_height="wrap_content"
                         android:text="Who raised you?"
                         android:textColor="#000000"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="400dp"
+                        android:layout_width="600dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -330,7 +330,7 @@
                         android:layout_height="wrap_content"
                         android:text="Where did you grown up?"
                         android:textColor="#000000"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
@@ -339,7 +339,7 @@
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -355,7 +355,7 @@
                     android:layout_height="wrap_content"
                     android:text="Family member medical conditions:"
                     android:textColor="#000000"
-                    android:textSize="20sp"
+                    android:textSize="25sp"
                     android:padding="5dp"
                     android:background="@drawable/scr_7"/>
                 <EditText
@@ -364,7 +364,7 @@
                     android:backgroundTint="#b0b1b7"
                     android:textColor="#ffffff"
                     android:padding="10dp"
-                    android:textSize="20sp"
+                    android:textSize="25sp"
                     />
             </LinearLayout>
 
@@ -378,7 +378,7 @@
                     android:layout_height="wrap_content"
                     android:text="Family member mental conditions:"
                     android:textColor="#000000"
-                    android:textSize="20sp"
+                    android:textSize="25sp"
                     android:padding="5dp"
                     android:background="@drawable/scr_7"/>
                 <EditText
@@ -387,7 +387,7 @@
                     android:backgroundTint="#b0b1b7"
                     android:textColor="#ffffff"
                     android:padding="10dp"
-                    android:textSize="20sp"
+                    android:textSize="25sp"
                     />
             </LinearLayout>
 
@@ -401,7 +401,7 @@
                     android:layout_height="wrap_content"
                     android:text="Treated with medication?"
                     android:textColor="#000000"
-                    android:textSize="20sp"
+                    android:textSize="25sp"
                     android:padding="5dp"
                     android:background="@drawable/scr_7"/>
                 <EditText
@@ -410,7 +410,7 @@
                     android:backgroundTint="#b0b1b7"
                     android:textColor="#ffffff"
                     android:padding="10dp"
-                    android:textSize="20sp"
+                    android:textSize="25sp"
                     />
             </LinearLayout>
 
@@ -424,7 +424,7 @@
                     android:layout_height="wrap_content"
                     android:text="Medications"
                     android:textColor="#000000"
-                    android:textSize="20sp"
+                    android:textSize="25sp"
                     android:padding="5dp"
                     android:background="@drawable/scr_7"/>
                 <EditText
@@ -433,7 +433,7 @@
                     android:backgroundTint="#b0b1b7"
                     android:textColor="#ffffff"
                     android:padding="10dp"
-                    android:textSize="20sp"
+                    android:textSize="25sp"
                     />
             </LinearLayout>
 
@@ -441,10 +441,11 @@
                 android:layout_width="400dp"
                 android:layout_height="wrap_content"
                 android:text="Next"
-                android:textSize="20dp"
+                android:textSize="25sp"
                 android:layout_gravity="bottom|end"
                 android:background="@drawable/scr_4"
-                android:layout_marginRight="15dp"/>
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="40dp"/>
             </LinearLayout>
     </ScrollView>
 </LinearLayout>

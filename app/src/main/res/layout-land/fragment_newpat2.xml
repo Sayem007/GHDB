@@ -26,7 +26,7 @@
                 android:text="Insurance Details"
                 android:textStyle="bold"
                 android:background="@drawable/scr_3"
-                android:textSize="25dp"
+                android:textSize="30sp"
                 android:textAlignment="center"
                 android:textColor="#ffffff"
                 android:layout_margin="10dp"
@@ -48,16 +48,16 @@
                         android:layout_height="wrap_content"
                         android:text="Insured's Name:"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="400dp"
+                        android:layout_width="600dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -73,16 +73,16 @@
                         android:layout_height="wrap_content"
                         android:text="D.O.B:"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="400dp"
+                        android:layout_width="600dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -103,16 +103,16 @@
                         android:layout_height="wrap_content"
                         android:text="Relationship:"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="400dp"
+                        android:layout_width="600dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -128,16 +128,16 @@
                         android:layout_height="wrap_content"
                         android:text="Since(Date):"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="400dp"
+                        android:layout_width="600dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -158,16 +158,16 @@
                         android:layout_height="wrap_content"
                         android:text="Employer:"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="400dp"
+                        android:layout_width="600dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -183,16 +183,16 @@
                         android:layout_height="wrap_content"
                         android:text="Phone:"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="400dp"
+                        android:layout_width="600dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -213,16 +213,16 @@
                         android:layout_height="wrap_content"
                         android:text="Address:"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="400dp"
+                        android:layout_width="600dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -238,16 +238,16 @@
                         android:layout_height="wrap_content"
                         android:text="Supervisor"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="400dp"
+                        android:layout_width="600dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -268,17 +268,17 @@
                         android:layout_height="wrap_content"
                         android:text="City:"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
 
                     <EditText
-                        android:layout_width="200dp"
+                        android:layout_width="300dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:padding="10dp"
                         android:textColor="#ffffff"
-                        android:textSize="20dp" />
+                        android:textSize="25sp" />
 
                 </LinearLayout>
 
@@ -293,16 +293,16 @@
                         android:layout_height="wrap_content"
                         android:text="State:"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="200dp"
+                        android:layout_width="300dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -318,16 +318,16 @@
                         android:layout_height="wrap_content"
                         android:text="ZIP:"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="200dp"
+                        android:layout_width="300dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -343,7 +343,7 @@
                         android:layout_height="wrap_content"
                         android:text="Note:"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
@@ -352,7 +352,7 @@
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -369,20 +369,20 @@
                     android:orientation="horizontal">
 
                     <TextView
-                        android:layout_width="300dp"
+                        android:layout_width="350dp"
                         android:layout_height="wrap_content"
                         android:text="Primary Insurance Company:"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="400dp"
+                        android:layout_width="600dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -398,16 +398,16 @@
                         android:layout_height="wrap_content"
                         android:text="Phone:"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="400dp"
+                        android:layout_width="600dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -428,16 +428,16 @@
                         android:layout_height="wrap_content"
                         android:text="Address:"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="400dp"
+                        android:layout_width="600dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -453,16 +453,16 @@
                         android:layout_height="wrap_content"
                         android:text="Insured's ID:"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="400dp"
+                        android:layout_width="600dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -483,17 +483,17 @@
                         android:layout_height="wrap_content"
                         android:text="City:"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
 
                     <EditText
-                        android:layout_width="200dp"
+                        android:layout_width="250dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:padding="10dp"
                         android:textColor="#ffffff"
-                        android:textSize="20dp" />
+                        android:textSize="25sp" />
 
                 </LinearLayout>
 
@@ -508,16 +508,16 @@
                         android:layout_height="wrap_content"
                         android:text="State:"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="200dp"
+                        android:layout_width="250dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -533,16 +533,16 @@
                         android:layout_height="wrap_content"
                         android:text="ZIP:"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="200dp"
+                        android:layout_width="250dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -558,16 +558,16 @@
                         android:layout_height="wrap_content"
                         android:text="Group#"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="200dp"
+                        android:layout_width="250dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -584,21 +584,21 @@
                     android:orientation="horizontal">
 
                     <TextView
-                        android:layout_width="100dp"
+                        android:layout_width="150dp"
                         android:layout_height="wrap_content"
                         android:text="Contact:"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
 
                     <EditText
-                        android:layout_width="200dp"
+                        android:layout_width="250dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:padding="10dp"
                         android:textColor="#ffffff"
-                        android:textSize="20dp" />
+                        android:textSize="25sp" />
 
                 </LinearLayout>
 
@@ -613,16 +613,16 @@
                         android:layout_height="wrap_content"
                         android:text="Title:"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="200dp"
+                        android:layout_width="250dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -638,16 +638,16 @@
                         android:layout_height="wrap_content"
                         android:text="Phone:"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="200dp"
+                        android:layout_width="250dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -663,16 +663,16 @@
                         android:layout_height="wrap_content"
                         android:text="Claim#"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="200dp"
+                        android:layout_width="250dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -688,7 +688,7 @@
                     android:layout_height="wrap_content"
                     android:text="Notes:"
                     android:textColor="#000000"
-                    android:textSize="20dp"
+                    android:textSize="25sp"
                     android:padding="5dp"
                     android:background="@drawable/scr_7"/>
                 <EditText
@@ -697,7 +697,7 @@
                     android:backgroundTint="#b0b1b7"
                     android:textColor="#ffffff"
                     android:padding="10dp"
-                    android:textSize="20dp"
+                    android:textSize="25sp"
                     />
 
             </LinearLayout>
@@ -717,16 +717,16 @@
                         android:layout_height="wrap_content"
                         android:text="Secondary Insurance:"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="400dp"
+                        android:layout_width="600dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -742,16 +742,16 @@
                         android:layout_height="wrap_content"
                         android:text="Phone:"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="400dp"
+                        android:layout_width="600dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -772,16 +772,16 @@
                         android:layout_height="wrap_content"
                         android:text="Address:"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="400dp"
+                        android:layout_width="600dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -797,16 +797,16 @@
                         android:layout_height="wrap_content"
                         android:text="Insured's ID:"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="400dp"
+                        android:layout_width="600dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -827,17 +827,17 @@
                         android:layout_height="wrap_content"
                         android:text="City:"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
 
                     <EditText
-                        android:layout_width="200dp"
+                        android:layout_width="250dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:padding="10dp"
                         android:textColor="#ffffff"
-                        android:textSize="20dp" />
+                        android:textSize="25sp" />
 
                 </LinearLayout>
 
@@ -852,16 +852,16 @@
                         android:layout_height="wrap_content"
                         android:text="State:"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="200dp"
+                        android:layout_width="250dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -877,16 +877,16 @@
                         android:layout_height="wrap_content"
                         android:text="ZIP:"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="200dp"
+                        android:layout_width="250dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -902,16 +902,16 @@
                         android:layout_height="wrap_content"
                         android:text="Group#"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="200dp"
+                        android:layout_width="250dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -928,21 +928,21 @@
                     android:orientation="horizontal">
 
                     <TextView
-                        android:layout_width="100dp"
+                        android:layout_width="150dp"
                         android:layout_height="wrap_content"
                         android:text="Contact:"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
 
                     <EditText
-                        android:layout_width="200dp"
+                        android:layout_width="250dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:padding="10dp"
                         android:textColor="#ffffff"
-                        android:textSize="20dp" />
+                        android:textSize="25sp" />
 
                 </LinearLayout>
 
@@ -957,16 +957,16 @@
                         android:layout_height="wrap_content"
                         android:text="Title:"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="200dp"
+                        android:layout_width="250dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -982,16 +982,16 @@
                         android:layout_height="wrap_content"
                         android:text="Phone:"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="200dp"
+                        android:layout_width="250dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -1007,16 +1007,16 @@
                         android:layout_height="wrap_content"
                         android:text="Claim#"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="200dp"
+                        android:layout_width="250dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -1032,7 +1032,7 @@
                     android:layout_height="wrap_content"
                     android:text="Notes:"
                     android:textColor="#000000"
-                    android:textSize="20dp"
+                    android:textSize="25sp"
                     android:padding="5dp"
                     android:background="@drawable/scr_7"/>
                 <EditText
@@ -1041,7 +1041,7 @@
                     android:backgroundTint="#b0b1b7"
                     android:textColor="#ffffff"
                     android:padding="10dp"
-                    android:textSize="20dp"
+                    android:textSize="25sp"
                     />
 
             </LinearLayout>
@@ -1051,7 +1051,7 @@
                 android:layout_width="400dp"
                 android:layout_height="wrap_content"
                 android:text="Save Information"
-                android:textSize="20dp"
+                android:textSize="25sp"
                 android:layout_gravity="bottom|end"
                 android:background="@drawable/scr_4"
                 android:layout_marginRight="15dp"/>

@@ -14,12 +14,13 @@
         ></include>
 
     <LinearLayout
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_gravity="center"
         android:orientation="horizontal">
 
         <LinearLayout
-            android:layout_width="600dp"
+            android:layout_width="770dp"
             android:layout_height="wrap_content"
             android:orientation="vertical"
             android:layout_marginLeft="10dp"
@@ -32,7 +33,7 @@
                 android:textAlignment="center"
                 android:textColor="#ffffff"
                 android:textStyle="bold"
-                android:textSize="25dp"
+                android:textSize="30dp"
                 android:background="@drawable/scr_1"
                 android:padding="20dp"
                 android:layout_margin="5dp"
@@ -41,7 +42,7 @@
 
             <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
                 android:layout_width="match_parent"
-                android:layout_height="250dp"
+                android:layout_height="450dp"
                 card_view:cardCornerRadius="10dp"
                 card_view:cardElevation="15dp"
                 android:layout_marginTop="5dp"
@@ -70,7 +71,7 @@
             android:background="#b0b1b7"/>
 
         <LinearLayout
-            android:layout_width="600dp"
+            android:layout_width="770dp"
             android:layout_height="wrap_content"
             android:layout_gravity="right"
             android:orientation="vertical">
@@ -85,13 +86,13 @@
                 android:textStyle="bold"
                 android:textAlignment="center"
                 android:textColor="#ffffff"
-                android:textSize="25dp"
+                android:textSize="30dp"
                 android:layout_gravity="center"
                 android:drawableRight="@drawable/seen"/>
 
             <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
                 android:layout_width="match_parent"
-                android:layout_height="250dp"
+                android:layout_height="450dp"
                 card_view:cardCornerRadius="10dp"
                 card_view:cardElevation="15dp"
                 android:layout_marginTop="5dp"
@@ -124,13 +125,14 @@
 
 
     <LinearLayout
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="match_parent"
         android:orientation="horizontal"
-        android:padding="10dp">
+        android:padding="10dp"
+        android:layout_gravity="center">
 
         <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
-            android:layout_width="400dp"
+            android:layout_width="500dp"
             android:layout_height="match_parent"
             card_view:cardCornerRadius="10dp"
             card_view:cardElevation="15dp"
@@ -141,18 +143,18 @@
             android:layout_gravity="left">
 
             <LinearLayout
-            android:layout_width="400dp"
+            android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:orientation="vertical"
             >
 
             <TextView
-                android:layout_width="300dp"
+                android:layout_width="400dp"
                 android:layout_height="wrap_content"
                 android:text="CRITICAL PATIENT"
                 android:textAlignment="center"
                 android:textColor="#ffffff"
-                android:textSize="25dp"
+                android:textSize="30dp"
                 android:textStyle="bold"
                 android:drawableRight="@drawable/critical"
                 android:background="@drawable/scr_5"
@@ -162,7 +164,7 @@
 
             <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
                 android:layout_width="match_parent"
-                android:layout_height="200dp"
+                android:layout_height="250dp"
                 card_view:cardCornerRadius="15dp"
                 card_view:cardElevation="10dp"
                 android:layout_marginTop="5dp"
@@ -215,7 +217,7 @@
         </android.support.v7.widget.CardView>
 
         <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
-            android:layout_width="400dp"
+            android:layout_width="500dp"
             android:layout_height="match_parent"
             card_view:cardCornerRadius="10dp"
             card_view:cardElevation="10dp"
@@ -227,7 +229,7 @@
             android:layout_gravity="center|top">
 
             <LinearLayout
-                android:layout_width="400dp"
+                android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:orientation="vertical"
                 >
@@ -238,7 +240,7 @@
                     android:text="OUTBREAKS"
                     android:textAlignment="center"
                     android:textColor="#ffffff"
-                    android:textSize="25dp"
+                    android:textSize="30sp"
                     android:textStyle="bold"
                     android:background="@drawable/scr_5"
                     android:padding="10dp"
@@ -248,7 +250,7 @@
 
                 <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
                     android:layout_width="match_parent"
-                    android:layout_height="152dp"
+                    android:layout_height="200dp"
                     card_view:cardCornerRadius="10dp"
                     card_view:cardElevation="10dp"
                     android:layout_marginTop="5dp"
@@ -264,7 +266,7 @@
                         android:orientation="horizontal">
 
                         <LinearLayout
-                            android:layout_width="wrap_content"
+                            android:layout_width="300dp"
                             android:layout_height="wrap_content"
                             android:orientation="vertical"
                             android:layout_marginLeft="10dp"
@@ -315,7 +317,7 @@
         </android.support.v7.widget.CardView>
 
         <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
-            android:layout_width="400dp"
+            android:layout_width="500dp"
             android:layout_height="match_parent"
             card_view:cardCornerRadius="10dp"
             card_view:cardElevation="10dp"
@@ -327,7 +329,7 @@
             android:layout_gravity="right">
 
             <LinearLayout
-                android:layout_width="400dp"
+                android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:orientation="vertical"
                 >
@@ -338,7 +340,7 @@
                     android:text="MEDICATION"
                     android:textAlignment="center"
                     android:textColor="#ffffff"
-                    android:textSize="25dp"
+                    android:textSize="30dp"
                     android:textStyle="bold"
                     android:background="@drawable/scr_5"
                     android:padding="10dp"
@@ -348,7 +350,7 @@
 
                 <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
                     android:layout_width="match_parent"
-                    android:layout_height="200dp"
+                    android:layout_height="250dp"
                     card_view:cardCornerRadius="10dp"
                     card_view:cardElevation="10dp"
                     android:layout_marginTop="5dp"

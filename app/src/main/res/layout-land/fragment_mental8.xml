@@ -26,7 +26,7 @@
                 android:text="Have You Ever Tried the Following(Check All That Apply)"
                 android:textStyle="bold"
                 android:background="@drawable/scr_3"
-                android:textSize="25sp"
+                android:textSize="30sp"
                 android:textAlignment="center"
                 android:textColor="#ffffff"
                 android:layout_margin="10dp"
@@ -175,7 +175,7 @@
                     android:layout_height="wrap_content"
                     android:text="If yes to any, list frequency/dates of use:"
                     android:textColor="#000000"
-                    android:textSize="20sp"
+                    android:textSize="25sp"
                     android:padding="5dp"
                     android:background="@drawable/scr_7"/>
                 <EditText
@@ -184,7 +184,7 @@
                     android:backgroundTint="#b0b1b7"
                     android:textColor="#ffffff"
                     android:padding="10dp"
-                    android:textSize="20sp"
+                    android:textSize="25sp"
                     android:singleLine="false"
                     android:lines="5"
                     android:inputType="textMultiLine"
@@ -208,7 +208,7 @@
                         android:layout_height="wrap_content"
                         android:text="Have you ever been treated for drug/alcohol abuse?"
                         android:textColor="#000000"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
@@ -217,7 +217,7 @@
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -233,7 +233,7 @@
                         android:layout_height="wrap_content"
                         android:text="If yes, when?"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
@@ -242,7 +242,7 @@
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -258,7 +258,7 @@
                     android:layout_height="wrap_content"
                     android:text="For which substances?"
                     android:textColor="#000000"
-                    android:textSize="20sp"
+                    android:textSize="25sp"
                     android:padding="5dp"
                     android:background="@drawable/scr_7"/>
                 <EditText
@@ -267,7 +267,7 @@
                     android:backgroundTint="#b0b1b7"
                     android:textColor="#ffffff"
                     android:padding="10dp"
-                    android:textSize="20sp"
+                    android:textSize="25sp"
                     />
 
             </LinearLayout>
@@ -287,7 +287,7 @@
                         android:layout_height="wrap_content"
                         android:text="Do you smoke cigarettes?"
                         android:textColor="#000000"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
@@ -296,7 +296,7 @@
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -312,16 +312,16 @@
                         android:layout_height="wrap_content"
                         android:text="If yes, how many per day?"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="400dp"
+                        android:layout_width="600dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -342,7 +342,7 @@
                         android:layout_height="wrap_content"
                         android:text="Do you drink caffeinated beverages?"
                         android:textColor="#000000"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
@@ -351,7 +351,7 @@
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -367,7 +367,7 @@
                         android:layout_height="wrap_content"
                         android:text="If yes, how many per day?"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
@@ -376,7 +376,7 @@
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -397,16 +397,16 @@
                         android:layout_height="wrap_content"
                         android:text="Have you ever abused prescription drugs?"
                         android:textColor="#000000"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="150dp"
+                        android:layout_width="350dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -422,7 +422,7 @@
                         android:layout_height="wrap_content"
                         android:text="If yes, which ones?"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
@@ -431,7 +431,7 @@
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -441,10 +441,11 @@
                 android:layout_width="400dp"
                 android:layout_height="wrap_content"
                 android:text="Next"
-                android:textSize="20dp"
+                android:textSize="25sp"
                 android:layout_gravity="bottom|end"
                 android:background="@drawable/scr_4"
-                android:layout_marginRight="15dp"/>
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="40dp"/>
             </LinearLayout>
     </ScrollView>
 </LinearLayout>

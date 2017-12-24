@@ -21,12 +21,12 @@
             >
 
             <TextView
-                android:layout_width="400dp"
+                android:layout_width="600dp"
                 android:layout_height="wrap_content"
                 android:text="Personal Information"
                 android:textStyle="bold"
                 android:background="@drawable/scr_3"
-                android:textSize="25sp"
+                android:textSize="30sp"
                 android:textAlignment="center"
                 android:textColor="#ffffff"
                 android:layout_margin="10dp"
@@ -48,16 +48,16 @@
                         android:layout_height="wrap_content"
                         android:text="Name:"
                         android:textColor="#000000"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="400dp"
+                        android:layout_width="600dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20sp"/>
+                        android:textSize="25sp"/>
 
                 </LinearLayout>
 
@@ -68,20 +68,20 @@
                     android:layout_marginLeft="25dp">
 
                     <TextView
-                        android:layout_width="200dp"
+                        android:layout_width="150dp"
                         android:layout_height="wrap_content"
                         android:text="Date:"
                         android:textColor="#000000"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="400dp"
+                        android:layout_width="600dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -97,7 +97,7 @@
                     android:layout_height="wrap_content"
                     android:text="Address:"
                     android:textColor="#000000"
-                    android:textSize="20sp"
+                    android:textSize="25sp"
                     android:padding="5dp"
                     android:background="@drawable/scr_7"/>
                 <EditText
@@ -106,7 +106,7 @@
                     android:backgroundTint="#b0b1b7"
                     android:textColor="#ffffff"
                     android:padding="10dp"
-                    android:textSize="20sp"
+                    android:textSize="25sp"
                     />
 
             </LinearLayout>
@@ -127,16 +127,16 @@
                         android:layout_height="wrap_content"
                         android:text="Phone:"
                         android:textColor="#000000"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="400dp"
+                        android:layout_width="600dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -148,20 +148,20 @@
                     android:layout_marginLeft="25dp">
 
                     <TextView
-                        android:layout_width="200dp"
+                        android:layout_width="150dp"
                         android:layout_height="wrap_content"
                         android:text="Email:"
                         android:textColor="#000000"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="400dp"
+                        android:layout_width="600dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -183,16 +183,16 @@
                         android:layout_height="wrap_content"
                         android:text="DOB:"
                         android:textColor="#000000"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="400dp"
+                        android:layout_width="600dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -204,20 +204,20 @@
                     android:layout_marginLeft="25dp">
 
                     <TextView
-                        android:layout_width="200dp"
+                        android:layout_width="150dp"
                         android:layout_height="wrap_content"
                         android:text="Sex:"
                         android:textColor="#000000"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="400dp"
+                        android:layout_width="600dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -234,20 +234,20 @@
                     android:orientation="horizontal">
 
                     <TextView
-                        android:layout_width="200dp"
+                        android:layout_width="250dp"
                         android:layout_height="wrap_content"
                         android:text="Primary Physician:"
                         android:textColor="#000000"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="400dp"
+                        android:layout_width="550dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -259,20 +259,20 @@
                     android:layout_marginLeft="25dp">
 
                     <TextView
-                        android:layout_width="200dp"
+                        android:layout_width="150dp"
                         android:layout_height="wrap_content"
                         android:text="Phone:"
                         android:textColor="#000000"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="400dp"
+                        android:layout_width="600dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -289,20 +289,20 @@
                     android:orientation="horizontal">
 
                     <TextView
-                        android:layout_width="200dp"
+                        android:layout_width="250dp"
                         android:layout_height="wrap_content"
                         android:text="Current Therapist:"
                         android:textColor="#000000"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="400dp"
+                        android:layout_width="550dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -314,20 +314,20 @@
                     android:layout_marginLeft="25dp">
 
                     <TextView
-                        android:layout_width="200dp"
+                        android:layout_width="150dp"
                         android:layout_height="wrap_content"
                         android:text="Phone:"
                         android:textColor="#000000"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="400dp"
+                        android:layout_width="600dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -337,10 +337,11 @@
                 android:layout_width="400dp"
                 android:layout_height="wrap_content"
                 android:text="Next"
-                android:textSize="20dp"
+                android:textSize="25sp"
                 android:layout_gravity="bottom|end"
                 android:background="@drawable/scr_4"
-                android:layout_marginRight="15dp"/>
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="40dp"/>
             </LinearLayout>
     </ScrollView>
 </LinearLayout>

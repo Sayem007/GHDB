@@ -26,7 +26,7 @@
                 android:text="Medical History"
                 android:textStyle="bold"
                 android:background="@drawable/scr_3"
-                android:textSize="25sp"
+                android:textSize="30sp"
                 android:textAlignment="center"
                 android:textColor="#ffffff"
                 android:layout_margin="10dp"
@@ -44,20 +44,20 @@
                     android:orientation="horizontal">
 
                     <TextView
-                        android:layout_width="200dp"
+                        android:layout_width="250dp"
                         android:layout_height="wrap_content"
                         android:text="Exercise Frequency:"
                         android:textColor="#000000"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="400dp"
+                        android:layout_width="600dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -69,15 +69,15 @@
                     android:layout_marginLeft="25dp">
 
                     <TextView
-                        android:layout_width="200dp"
+                        android:layout_width="250dp"
                         android:layout_height="wrap_content"
                         android:text="Exercise Type(s):"
                         android:textColor="#000000"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="400dp"
+                        android:layout_width="500dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
@@ -98,7 +98,7 @@
                     android:layout_height="wrap_content"
                     android:text="Allergies:"
                     android:textColor="#000000"
-                    android:textSize="20sp"
+                    android:textSize="25sp"
                     android:padding="5dp"
                     android:background="@drawable/scr_7"/>
                 <EditText
@@ -107,7 +107,7 @@
                     android:backgroundTint="#b0b1b7"
                     android:textColor="#ffffff"
                     android:padding="10dp"
-                    android:textSize="20sp"
+                    android:textSize="25sp"
                     />
 
             </LinearLayout>
@@ -122,7 +122,7 @@
                     android:layout_height="wrap_content"
                     android:text="What medications are you currently using?"
                     android:textColor="#000000"
-                    android:textSize="20sp"
+                    android:textSize="25sp"
                     android:padding="5dp"
                     android:background="@drawable/scr_7"/>
                 <EditText
@@ -131,7 +131,7 @@
                     android:backgroundTint="#b0b1b7"
                     android:textColor="#ffffff"
                     android:padding="10dp"
-                    android:textSize="20sp"
+                    android:textSize="25sp"
                     />
 
             </LinearLayout>
@@ -145,7 +145,7 @@
                     android:layout_height="wrap_content"
                     android:text="Previously diagonoses/mental health treatment:"
                     android:textColor="#000000"
-                    android:textSize="20sp"
+                    android:textSize="25sp"
                     android:padding="5dp"
                     android:background="@drawable/scr_7"/>
                 <EditText
@@ -154,7 +154,7 @@
                     android:backgroundTint="#b0b1b7"
                     android:textColor="#ffffff"
                     android:padding="10dp"
-                    android:textSize="20sp"
+                    android:textSize="25sp"
                     />
 
             </LinearLayout>
@@ -168,7 +168,7 @@
                     android:layout_height="wrap_content"
                     android:text="Previously treated by:"
                     android:textColor="#000000"
-                    android:textSize="20sp"
+                    android:textSize="25sp"
                     android:padding="5dp"
                     android:background="@drawable/scr_7"/>
                 <EditText
@@ -177,7 +177,7 @@
                     android:backgroundTint="#b0b1b7"
                     android:textColor="#ffffff"
                     android:padding="10dp"
-                    android:textSize="20sp"
+                    android:textSize="25sp"
                     />
 
             </LinearLayout>
@@ -191,7 +191,7 @@
                     android:layout_height="wrap_content"
                     android:text="Previous medications:"
                     android:textColor="#000000"
-                    android:textSize="20sp"
+                    android:textSize="25sp"
                     android:padding="5dp"
                     android:background="@drawable/scr_7"/>
                 <EditText
@@ -200,7 +200,7 @@
                     android:backgroundTint="#b0b1b7"
                     android:textColor="#ffffff"
                     android:padding="10dp"
-                    android:textSize="20sp"
+                    android:textSize="25sp"
                     />
 
             </LinearLayout>
@@ -214,7 +214,7 @@
                     android:layout_height="wrap_content"
                     android:text="Dates treated:"
                     android:textColor="#000000"
-                    android:textSize="20sp"
+                    android:textSize="25sp"
                     android:padding="5dp"
                     android:background="@drawable/scr_7"/>
                 <EditText
@@ -223,7 +223,7 @@
                     android:backgroundTint="#b0b1b7"
                     android:textColor="#ffffff"
                     android:padding="10dp"
-                    android:textSize="20sp"
+                    android:textSize="25sp"
                     />
 
             </LinearLayout>
@@ -237,7 +237,7 @@
                     android:layout_height="wrap_content"
                     android:text="Previous medical conditions:"
                     android:textColor="#000000"
-                    android:textSize="20sp"
+                    android:textSize="25sp"
                     android:padding="5dp"
                     android:background="@drawable/scr_7"/>
                 <EditText
@@ -246,7 +246,7 @@
                     android:backgroundTint="#b0b1b7"
                     android:textColor="#ffffff"
                     android:padding="10dp"
-                    android:textSize="20sp"
+                    android:textSize="25sp"
                     />
 
             </LinearLayout>
@@ -260,7 +260,7 @@
                     android:layout_height="wrap_content"
                     android:text="Previous surgeries:"
                     android:textColor="#000000"
-                    android:textSize="20sp"
+                    android:textSize="25sp"
                     android:padding="5dp"
                     android:background="@drawable/scr_7"/>
                 <EditText
@@ -269,7 +269,7 @@
                     android:backgroundTint="#b0b1b7"
                     android:textColor="#ffffff"
                     android:padding="10dp"
-                    android:textSize="20sp"
+                    android:textSize="25sp"
                     />
 
             </LinearLayout>
@@ -278,10 +278,11 @@
                 android:layout_width="400dp"
                 android:layout_height="wrap_content"
                 android:text="Next"
-                android:textSize="20dp"
+                android:textSize="25sp"
                 android:layout_gravity="bottom|end"
                 android:background="@drawable/scr_4"
-                android:layout_marginRight="15dp"/>
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="40dp"/>
             </LinearLayout>
     </ScrollView>
 </LinearLayout>

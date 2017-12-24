@@ -26,7 +26,7 @@
                 android:text="Present Situation"
                 android:textStyle="bold"
                 android:background="@drawable/scr_3"
-                android:textSize="25sp"
+                android:textSize="30sp"
                 android:textAlignment="center"
                 android:textColor="#ffffff"
                 android:layout_margin="10dp"
@@ -43,7 +43,7 @@
                     android:layout_height="wrap_content"
                     android:text="Work:"
                     android:textColor="#000000"
-                    android:textSize="20sp"
+                    android:textSize="25sp"
                     android:padding="5dp"
                     android:background="@drawable/scr_7"/>
 
@@ -130,7 +130,7 @@
                         android:layout_height="wrap_content"
                         android:text="Are you married?"
                         android:textColor="#000000"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
@@ -139,7 +139,7 @@
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -155,16 +155,16 @@
                         android:layout_height="wrap_content"
                         android:text="If yes, date of marriage:"
                         android:textColor="#000000"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="400dp"
+                        android:layout_width="700dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -188,7 +188,7 @@
                         android:padding="5dp"
                         android:text="Are you divorced?"
                         android:textColor="#000000"
-                        android:textSize="20sp" />
+                        android:textSize="25sp" />
 
                     <EditText
                         android:layout_width="400dp"
@@ -196,7 +196,7 @@
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -212,16 +212,16 @@
                         android:layout_height="wrap_content"
                         android:text="If yes, date of divorce:"
                         android:textColor="#000000"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="400dp"
+                        android:layout_width="700dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -242,7 +242,7 @@
                         android:layout_height="wrap_content"
                         android:text="Prior marriages?"
                         android:textColor="#000000"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
@@ -251,7 +251,7 @@
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -267,16 +267,16 @@
                         android:layout_height="wrap_content"
                         android:text="If yes, how many?"
                         android:textColor="#000000"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="400dp"
+                        android:layout_width="800dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -297,7 +297,7 @@
                         android:layout_height="wrap_content"
                         android:text="What is your sexual orientation?"
                         android:textColor="#000000"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
@@ -306,7 +306,7 @@
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -322,16 +322,16 @@
                         android:layout_height="wrap_content"
                         android:text="Are you sexually active?"
                         android:textColor="#000000"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="400dp"
+                        android:layout_width="450dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -347,7 +347,7 @@
                     android:layout_height="wrap_content"
                     android:text="How is your relationship with your partner?"
                     android:textColor="#000000"
-                    android:textSize="20sp"
+                    android:textSize="25sp"
                     android:padding="5dp"
                     android:background="@drawable/scr_7"/>
                 <EditText
@@ -356,7 +356,7 @@
                     android:backgroundTint="#b0b1b7"
                     android:textColor="#ffffff"
                     android:padding="10dp"
-                    android:textSize="20sp"
+                    android:textSize="25sp"
                     />
 
             </LinearLayout>
@@ -376,7 +376,7 @@
                         android:layout_height="wrap_content"
                         android:text="Do you have children?"
                         android:textColor="#000000"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
@@ -385,7 +385,7 @@
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -401,16 +401,16 @@
                         android:layout_height="wrap_content"
                         android:text="Dates of Birth:"
                         android:textColor="#000000"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="400dp"
+                        android:layout_width="700dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -426,7 +426,7 @@
                     android:layout_height="wrap_content"
                     android:text="How is your relationship with your child(ren)?"
                     android:textColor="#000000"
-                    android:textSize="20sp"
+                    android:textSize="25sp"
                     android:padding="5dp"
                     android:background="@drawable/scr_7"/>
                 <EditText
@@ -435,7 +435,7 @@
                     android:backgroundTint="#b0b1b7"
                     android:textColor="#ffffff"
                     android:padding="10dp"
-                    android:textSize="20sp"
+                    android:textSize="25sp"
                     />
 
             </LinearLayout>
@@ -450,7 +450,7 @@
                     android:layout_height="wrap_content"
                     android:text="List anyone else who lives with you:"
                     android:textColor="#000000"
-                    android:textSize="20sp"
+                    android:textSize="25sp"
                     android:padding="5dp"
                     android:background="@drawable/scr_7"/>
                 <EditText
@@ -459,7 +459,7 @@
                     android:backgroundTint="#b0b1b7"
                     android:textColor="#ffffff"
                     android:padding="10dp"
-                    android:textSize="20sp"
+                    android:textSize="25sp"
                     />
 
             </LinearLayout>
@@ -474,7 +474,7 @@
                     android:layout_height="wrap_content"
                     android:text="Are you a member of a religion/spiritual group?"
                     android:textColor="#000000"
-                    android:textSize="20sp"
+                    android:textSize="25sp"
                     android:padding="5dp"
                     android:background="@drawable/scr_7"/>
                 <EditText
@@ -483,7 +483,7 @@
                     android:backgroundTint="#b0b1b7"
                     android:textColor="#ffffff"
                     android:padding="10dp"
-                    android:textSize="20sp"
+                    android:textSize="25sp"
                     />
 
             </LinearLayout>
@@ -498,7 +498,7 @@
                     android:layout_height="wrap_content"
                     android:text="What is your level of involvement?"
                     android:textColor="#000000"
-                    android:textSize="20sp"
+                    android:textSize="25sp"
                     android:padding="5dp"
                     android:background="@drawable/scr_7"/>
                 <EditText
@@ -507,7 +507,7 @@
                     android:backgroundTint="#b0b1b7"
                     android:textColor="#ffffff"
                     android:padding="10dp"
-                    android:textSize="20sp"
+                    android:textSize="25sp"
                     />
 
             </LinearLayout>
@@ -527,7 +527,7 @@
                         android:layout_height="wrap_content"
                         android:text="Have you ever been arrested??"
                         android:textColor="#000000"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
@@ -536,7 +536,7 @@
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -552,16 +552,16 @@
                         android:layout_height="wrap_content"
                         android:text="When and why?"
                         android:textColor="#000000"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="400dp"
+                        android:layout_width="600dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20sp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -571,10 +571,11 @@
                 android:layout_width="400dp"
                 android:layout_height="wrap_content"
                 android:text="Next"
-                android:textSize="20dp"
+                android:textSize="25sp"
                 android:layout_gravity="bottom|end"
                 android:background="@drawable/scr_4"
-                android:layout_marginRight="15dp"/>
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="40dp"/>
             </LinearLayout>
     </ScrollView>
 </LinearLayout>

@@ -31,11 +31,11 @@
                     android:orientation="horizontal">
 
                     <TextView
-                        android:layout_width="200dp"
+                        android:layout_width="300dp"
                         android:layout_height="wrap_content"
                         android:text="Date of Consultation:"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
 
@@ -46,7 +46,7 @@
                         android:backgroundTint="#b0b1b7"
                         android:padding="10dp"
                         android:textColor="#ffffff"
-                        android:textSize="20dp" />
+                        android:textSize="25sp" />
 
                 </LinearLayout>
 
@@ -61,7 +61,7 @@
                         android:layout_height="wrap_content"
                         android:text="Name of Doctor:"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
@@ -70,7 +70,7 @@
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -92,7 +92,7 @@
                         android:layout_height="wrap_content"
                         android:text="Reffered By:"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
@@ -101,7 +101,7 @@
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -117,7 +117,7 @@
                         android:layout_height="wrap_content"
                         android:text="Case Type:"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
@@ -126,7 +126,7 @@
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -143,7 +143,7 @@
                     android:layout_height="wrap_content"
                     android:text="Details of Injury or Illness, including Date, Location and Other Details:"
                     android:textColor="#000000"
-                    android:textSize="20dp"
+                    android:textSize="25sp"
                     android:padding="5dp"
                     android:background="@drawable/scr_7"/>
                 <EditText
@@ -152,7 +152,7 @@
                     android:backgroundTint="#b0b1b7"
                     android:textColor="#ffffff"
                     android:padding="10dp"
-                    android:textSize="20dp"
+                    android:textSize="25sp"
                     />
 
             </LinearLayout>
@@ -167,7 +167,7 @@
                     android:layout_height="wrap_content"
                     android:text="Details of any Treatment or First Aid already administered:"
                     android:textColor="#000000"
-                    android:textSize="20dp"
+                    android:textSize="25sp"
                     android:padding="5dp"
                     android:background="@drawable/scr_7"/>
                 <EditText
@@ -176,7 +176,7 @@
                     android:backgroundTint="#b0b1b7"
                     android:textColor="#ffffff"
                     android:padding="10dp"
-                    android:textSize="20dp"
+                    android:textSize="25sp"
                     />
 
             </LinearLayout>
@@ -191,12 +191,12 @@
                 android:background="#ffffff"/>
 
             <TextView
-                android:layout_width="400dp"
+                android:layout_width="600dp"
                 android:layout_height="wrap_content"
                 android:text="Patient Registration Details"
                 android:textStyle="bold"
                 android:background="@drawable/scr_3"
-                android:textSize="25dp"
+                android:textSize="30sp"
                 android:textAlignment="center"
                 android:textColor="#ffffff"
                 android:layout_margin="10dp"
@@ -218,16 +218,16 @@
                         android:layout_height="wrap_content"
                         android:text="Name:"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="400dp"
+                        android:layout_width="600dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -243,16 +243,16 @@
                         android:layout_height="wrap_content"
                         android:text="SS Number:"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="400dp"
+                        android:layout_width="500dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -268,7 +268,7 @@
                     android:layout_height="wrap_content"
                     android:text="Address:"
                     android:textColor="#000000"
-                    android:textSize="20dp"
+                    android:textSize="25sp"
                     android:padding="5dp"
                     android:background="@drawable/scr_7"/>
                 <EditText
@@ -277,7 +277,7 @@
                     android:backgroundTint="#b0b1b7"
                     android:textColor="#ffffff"
                     android:padding="10dp"
-                    android:textSize="20dp"
+                    android:textSize="25sp"
                     />
             </LinearLayout>
 
@@ -296,17 +296,17 @@
                         android:layout_height="wrap_content"
                         android:text="City:"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
 
                     <EditText
-                        android:layout_width="150dp"
+                        android:layout_width="250dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:padding="10dp"
                         android:textColor="#ffffff"
-                        android:textSize="20dp" />
+                        android:textSize="25sp" />
 
                 </LinearLayout>
 
@@ -321,16 +321,16 @@
                         android:layout_height="wrap_content"
                         android:text="State:"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="150dp"
+                        android:layout_width="250dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -346,7 +346,7 @@
                         android:layout_height="wrap_content"
                         android:text="ZIP:"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
@@ -355,7 +355,7 @@
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -373,22 +373,22 @@
                     android:orientation="horizontal">
 
                     <TextView
-                        android:layout_width="150dp"
+                        android:layout_width="250dp"
                         android:layout_height="wrap_content"
                         android:text="Mobile Phone:"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
 
                     <EditText
 
-                        android:layout_width="150dp"
+                        android:layout_width="250dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:padding="10dp"
                         android:textColor="#ffffff"
-                        android:textSize="20dp" />
+                        android:textSize="25sp" />
 
                 </LinearLayout>
 
@@ -399,20 +399,20 @@
                     android:layout_marginLeft="25dp">
 
                     <TextView
-                        android:layout_width="150dp"
+                        android:layout_width="250dp"
                         android:layout_height="wrap_content"
                         android:text="Home Phone:"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
-                        android:layout_width="150dp"
+                        android:layout_width="250dp"
                         android:layout_height="wrap_content"
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -424,11 +424,11 @@
                     android:layout_marginLeft="25dp">
 
                     <TextView
-                        android:layout_width="150dp"
+                        android:layout_width="250dp"
                         android:layout_height="wrap_content"
                         android:text="Work Phone:"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
@@ -437,7 +437,7 @@
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -458,7 +458,7 @@
                         android:layout_height="wrap_content"
                         android:text="Email:"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
@@ -467,7 +467,7 @@
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -479,11 +479,11 @@
                     android:layout_marginLeft="25dp">
 
                     <TextView
-                        android:layout_width="200dp"
+                        android:layout_width="300dp"
                         android:layout_height="wrap_content"
                         android:text="@string/notes"
                         android:textColor="#000000"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         android:padding="5dp"
                         android:background="@drawable/scr_7"/>
                     <EditText
@@ -492,7 +492,7 @@
                         android:backgroundTint="#b0b1b7"
                         android:textColor="#ffffff"
                         android:padding="10dp"
-                        android:textSize="20dp"
+                        android:textSize="25sp"
                         />
 
                 </LinearLayout>
@@ -513,7 +513,7 @@
                 android:text="Instruction"
                 android:textStyle="bold"
                 android:background="@drawable/scr_3"
-                android:textSize="25dp"
+                android:textSize="30dp"
                 android:textAlignment="center"
                 android:textColor="#ffffff"
                 android:layout_margin="10dp"
@@ -557,7 +557,7 @@
                 android:layout_width="400dp"
                 android:layout_height="wrap_content"
                 android:text="Next"
-                android:textSize="20dp"
+                android:textSize="30sp"
                 android:layout_gravity="bottom|end"
                 android:background="@drawable/scr_4"
                 android:layout_marginRight="15dp"/>
